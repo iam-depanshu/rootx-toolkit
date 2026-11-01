@@ -45,7 +45,7 @@ function banner() {
     echo -e "${reset}"
     echo -e "${white}  ══════════════════════════════════════════════${reset}"
     echo -e "${cyan}       RootX Security Toolkit Installer v1.0     ${reset}"
-    echo -e "${cyan}       AI-Powered Pentesting | github.com/Depanshu-InfoSec/rootx-toolkit ${reset}"
+    echo -e "${cyan}       Recon and many other tool-kit | github.com/iam-depanshu/rootx-toolkit ${reset}"
     echo -e "${white}  ══════════════════════════════════════════════${reset}"
     echo -e "${yellow}  [!] Use responsibly. Only test authorized targets.${reset}"
     echo -e ""
