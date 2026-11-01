@@ -219,9 +219,7 @@ RootX Toolkit is intended for **authorized security testing, educational use, an
 **Depanshu**
 B.Tech Student | Cybersecurity Enthusiast
 
-- GitHub: [@Depanshu-InfoSec](https://github.com/Depanshu-InfoSec)
-
----
+- GitHub: [(https://github.com/iam-depanshu)]
 
 ## 📜 License
 
